@@ -1,0 +1,24 @@
+
+.storage{
+    background-color: #00204a;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 15px;
+    border: 30px;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+div{
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    opacity: 1.2;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
